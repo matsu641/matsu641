@@ -5,9 +5,11 @@
 <img src="https://raw.githubusercontent.com/matsu641/matsu641/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matsu641&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsu641&layout=compact&theme=github_dark"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matsu641&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&include_orgs=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matsu641&layout=compact&theme=github_dark&include_orgs=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 </div>
+
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=matsu641&theme=github-compact" alt="Activity Graph" />
